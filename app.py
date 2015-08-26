@@ -1,5 +1,5 @@
 import falcon
-import images
+from resources import images
 
 
 # API
